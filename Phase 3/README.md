@@ -1,5 +1,5 @@
 # Recursive Descent Parser: Phase 3
-------------------------------------------------------------
+
 This program implements a recursive descent parser for the CFG below:
 
 The grammar has added rule 0 to the previous program.
